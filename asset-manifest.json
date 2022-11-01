@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.c7b53714.css",
+    "main.js": "/Portfolio/static/js/main.89a8fa91.js",
+    "static/media/1174949_js_react js_logo_react_react native_icon.png": "/Portfolio/static/media/1174949_js_react js_logo_react_react native_icon.f3e576ba08e6be927148.png",
+    "index.html": "/Portfolio/index.html",
+    "main.c7b53714.css.map": "/Portfolio/static/css/main.c7b53714.css.map",
+    "main.89a8fa91.js.map": "/Portfolio/static/js/main.89a8fa91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7b53714.css",
+    "static/js/main.89a8fa91.js"
+  ]
+}
